@@ -1,5 +1,5 @@
 # AS4PA
-Assignments and final project for the course of *dvanced Statistics for Physics Analysis* by Prof. Alberto Garfagnini, first year master course in Physics of Data, Padua.
+Assignments and final project for the course of *Advanced Statistics for Physics Analysis* by Prof. Alberto Garfagnini, first year master course in Physics of Data, Padua.
 
 ***Assignments*** <br>
 Collection of assignments undertaken during the course *Advanced Statistics for Physics Analysis* by Prof. Alberto Garfagnini during the first year of my master course in Physics of Data. <br>
